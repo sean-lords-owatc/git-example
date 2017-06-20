@@ -1,2 +1,2 @@
 # git-example
-\n## Description\n\nGitHub for dummies" >> README.md
+\n## Description\n\nGitHub for dummies
